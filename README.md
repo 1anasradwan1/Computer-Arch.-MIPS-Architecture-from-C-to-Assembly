@@ -1,4 +1,3 @@
-#Computer-Arch.-MIPS-Architecture-from-C-to-Assembly
 > A simulation of a basic MIPS CPU showcasing datapath and control logic.
 
 ---
@@ -27,13 +26,7 @@ This project simulates a simplified **MIPS processor**, highlighting:
 | Control Unit   | Generates signals for operation flow         |
 | Data Memory    | For load/store instructions                  |
 
----
 
-## 🏗️ Features
-- 🧩 5-stage pipeline: IF → ID → EX → MEM → WB  
-- 🛠️ Instruction & Data Memory  
-- 💡 Supports basic MIPS instructions (add, sub, lw, sw, beq)  
-- 🔄 Forwarding and Hazard Detection (if applicable)
 
 ---
 

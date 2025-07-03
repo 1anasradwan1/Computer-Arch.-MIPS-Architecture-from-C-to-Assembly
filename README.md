@@ -33,7 +33,7 @@ This project simulates a simplified **MIPS processor**, highlighting:
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/mips-project.git
+   git clone https://github.com/1anasradwan1/mips-project.git
 
   <footer>
     © 2025 | MIPS Architecture Project |️The Fast Trackers⚡️|| El-Kadya Official Acadimic Team

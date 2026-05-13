@@ -35,9 +35,5 @@ This project simulates a simplified **MIPS processor**, highlighting:
    ```bash
    git clone https://github.com/1anasradwan1/mips-project.git
 
-  <footer>
-    © 2025 | MIPS Architecture Project |️ Fast Trackers Acadimic Team
-  </footer>
-</body>
-</html>
+  
 

@@ -2,7 +2,7 @@
 
 ---
 
-## 📚 Overview
+##  Overview
 This project simulates a simplified **MIPS processor**, highlighting:
 - Instruction Fetch, Decode, Execute
 - ALU Operations
@@ -11,14 +11,14 @@ This project simulates a simplified **MIPS processor**, highlighting:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Understand the **structure** of a basic MIPS processor.
 - Execute MIPS instructions in a simulated environment.
 - Practice hardware-level thinking and logic design.
 
 ---
 
-## ⚙️ Components
+##  Components
 | Component      | Description                                  |
 |----------------|----------------------------------------------|
 | ALU            | Handles arithmetic and logic operations      |
@@ -30,13 +30,13 @@ This project simulates a simplified **MIPS processor**, highlighting:
 
 ---
 
-## 🚀 How to Run
-1. Clone the repo:
+## Clone the repo:
+
    ```bash
    git clone https://github.com/1anasradwan1/mips-project.git
 
   <footer>
-    © 2025 | MIPS Architecture Project |️The Fast Trackers⚡️|| El-Kadya Official Acadimic Team
+    © 2025 | MIPS Architecture Project |️ Fast Trackers Acadimic Team
   </footer>
 </body>
 </html>

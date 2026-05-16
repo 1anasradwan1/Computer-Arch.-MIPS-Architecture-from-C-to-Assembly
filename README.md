@@ -35,7 +35,7 @@ Instruction Fetch (IF) → Instruction Decode (ID) → Execute (EX) → Memory (
 | **Register File** | 32 general-purpose 32-bit registers (`$zero` → `$ra`) |
 | **Control Unit** | Decodes opcodes and generates datapath control signals |
 | **Data Memory** | Supports `lw` / `sw` load and store instructions     |
-| **PC**          | Program Counter — tracks the current instruction address |
+| **PC**          | Program Counter , tracks the current instruction address |
 
 ---
 
@@ -90,13 +90,6 @@ make
 gcc src/*.c -Iinclude -o mips_sim
 ```
 
-### Run
-
-```bash
-./mips_sim
-```
-
----
 
 ## Example Output
 

@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/anasr/OneDrive/Desktop/Computer-Arch.-MIPS-Architecture-from-C-to-Assembly",
-      "program": "c:/Users/anasr/OneDrive/Desktop/Computer-Arch.-MIPS-Architecture-from-C-to-Assembly/build/Debug/outDebug",
+      "cwd": "d:/Computer-Arch.-MIPS-Architecture-from-C-to-Assembly",
+      "program": "d:/Computer-Arch.-MIPS-Architecture-from-C-to-Assembly/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
